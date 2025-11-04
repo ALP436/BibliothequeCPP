@@ -1,0 +1,30 @@
+Le Petit Prince;Antoine de Saint-Exupéry;Roman;12
+1984;George Orwell;Dystopie;15
+Le Seigneur des Anneaux;J.R.R. Tolkien;Fantasy;25
+Harry Potter à l'école des sorciers;J.K. Rowling;Fantasy;20
+Harry Potter et la Chambre des secrets;J.K. Rowling;Fantasy;20
+Harry Potter et le Prisonnier d'Azkaban;J.K. Rowling;Fantasy;22
+Harry Potter et la Coupe de Feu;J.K. Rowling;Fantasy;23
+Harry Potter et l'Ordre du Phénix;J.K. Rowling;Fantasy;25
+Harry Potter et le Prince de Sang-Mêlé;J.K. Rowling;Fantasy;26
+Harry Potter et les Reliques de la Mort;J.K. Rowling;Fantasy;27
+Les Misérables;Victor Hugo;Roman;18
+Notre-Dame de Paris;Victor Hugo;Roman;14
+Le Comte de Monte-Cristo;Alexandre Dumas;Roman;20
+Les Trois Mousquetaires;Alexandre Dumas;Roman;19
+Le Rouge et le Noir;Stendhal;Roman;15
+Germinal;Émile Zola;Roman;16
+La Débâcle;Émile Zola;Roman;17
+L'Étranger;Albert Camus;Roman;13
+La Peste;Albert Camus;Roman;14
+Candide;Voltaire;Philosophie;12
+Les Fables;Jean de La Fontaine;Poésie;10
+Le Cid;Pierre Corneille;Théâtre;11
+Phèdre;Jean Racine;Théâtre;12
+Madame Bovary;Gustave Flaubert;Roman;15
+Bel-Ami;Guy de Maupassant;Roman;13
+Boulevard;Guy de Maupassant;Roman;12
+Le Vieil Homme et la Mer;Ernest Hemingway;Roman;14
+For Whom the Bell Tolls;Ernest Hemingway;Roman;15
+Pride and Prejudice;Jane Austen;Roman;16
+Sense and Sensibility;Jane Austen;Roman;14
