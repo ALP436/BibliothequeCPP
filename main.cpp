@@ -86,7 +86,7 @@ int main() {
 
             case 6: {
                 std::string nomFichier;
-                std::cout << "Nom du fichier à charger: ";
+                std::cout << "Nom du fichier source pour charger la bibliotheque : ";
                 std::getline(std::cin, nomFichier);
                 biblio.chargerDepuisFichier(nomFichier);
                 std::cout << "Bibliothèque chargée depuis " << nomFichier << std::endl;
